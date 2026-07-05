@@ -27,12 +27,12 @@ const twentyTwentyFive = [
 ]
 const twentyTwentySix = [
   {year: "2026"},
-  {month: "Janvier 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
-  {month: "Février 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
-  {month: "Mars 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
-  {month: "Avril 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
-  {month: "Mai 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
-  {month: "Juin 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
+  {month: "Janvier 2026", work: 1515.74, resale: 0.00, other: 730.94, lost: 3780.37, guard:-1518.99, endmonth:7559.53},
+  {month: "Février 2026", work: 1470.74, resale: 0.00, other: 0.00, lost: 503.82, guard:1022.47, endmonth:9261.94},
+  {month: "Mars 2026", work: 1526.29, resale: 0.00, other: 83.48, lost: 2780.94, guard:-1171.17, endmonth:6958.61},
+  {month: "Avril 2026", work: 1526.69, resale: 0.00, other: 0.00, lost: 1849.43, guard:-323.14, endmonth:8055.39},
+  {month: "Mai 2026", work: 1482.21, resale: 0.00, other: 7.50, lost: 842.52, guard:731.79, endmonth:8787.18},
+  {month: "Juin 2026", work: 0.00, resale: 0.00, other: 123.69, lost: 1273.03, guard:-1149.34, endmonth:7637.84},
   {month: "Juillet 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
   {month: "Août 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},
   {month: "Septembre 2026", work: 0.00, resale: 0.00, other: 0.00, lost: 0.00, guard:0.00, endmonth:0.00},

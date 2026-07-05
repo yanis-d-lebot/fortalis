@@ -1,0 +1,13 @@
+{
+    "id":1,
+    "nom": "Al-Fatiha",
+
+    "verset": [
+        {"numero":1,"arabe": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ","francais": "Louange à Allah, Seigneur de l’univers."},
+        {"numero":2,"arabe": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ","francais": "Le Tout Miséricordieux, le Très Miséricordieux,"},
+        {"numero":3,"arabe": "مَٰلِكِ يَوْمِ ٱلدِّينِ","francais": "Maître du Jour de la rétribution."},
+        {"numero":4,"arabe": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ","francais": "C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours."},
+        {"numero":5,"arabe": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ","francais": "Guide-nous dans le droit chemin,"},
+        {"numero":6,"arabe": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ","francais": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.."}
+    ]
+}
